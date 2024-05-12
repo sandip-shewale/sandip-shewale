@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sandip Shewale</h1>
 <h3 align="center">Over 8.2 years of experience in Software Development Engineer in Test (SDET) roles, specialising in Web, API, and Mobile Automation alongside E2E Manual Testing. Proficient in Selenium, Java, Appium, Rest Assured, TestNG, Serenity BDD, Cucumber, Postman, Maven, Jenkins, Git, Jira, BrowserStack, AWS and Docker. Experienced in multiple testing frameworks including Serenity BDD, Data - Driven, Keyword - Driven, and Hybrid Frameworks with POM, TestNG etc.</h3>
 
-<h1 align="center">Areas of Expertise</h1>
+<h1 align="left">Areas of Expertise</h1>
 • Programming Languages: :Core Java,Python
 • Automation Tools: Selenium WebDriver, Appium, Serenity BDD Cucumber
 • Frameworks: Serenity BDD Cucumber, Data / Keyword / Hybrid Driven, TestNG
