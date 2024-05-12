@@ -4,7 +4,19 @@
 <h3 align="center">Over 8.2 years of experience in Software Development Engineer in Test (SDET) roles, specialising in Web, API, and Mobile Automation alongside E2E Manual Testing. Proficient in Selenium, Java, Appium, Rest Assured, TestNG, Serenity BDD, Cucumber, Postman, Maven, Jenkins, Git, Jira, BrowserStack, AWS and Docker. Experienced in multiple testing frameworks including Serenity BDD, Data - Driven, Keyword - Driven, and Hybrid Frameworks with POM, TestNG etc.</h3>
 
 <h1 align="center">Areas of Expertise</h1>
-**Selenium WebDriver - Java - TestNG - Page Object Model - Page Factory - Appium - Serenity BDD Cucumber - IntelliJ - Eclipse - Postman - Rest-Assured - Jira - TestLink - Bugzilla - Kibana - TestRail - Bugzilla - Git - Gitlab - GitHub - AWS - Jenkins - Maven - Docker - Kubernetes - Agile - MySQL - Cassandra - Machine Learning - AI**
+• Programming Languages: :Core Java,Python
+• Automation Tools: Selenium WebDriver, Appium, Serenity BDD Cucumber
+• Frameworks: Serenity BDD Cucumber, Data / Keyword / Hybrid Driven, TestNG
+• Design Pattern: Page Object Model, Page Factory, Singleton
+• Code Editors / IDE: IntelliJ, Eclipse, PyCharm, Visual Studio Code
+• API Testing: Postman, Rest-Assured
+• Defect Man Tools: Jira, Test link, Bugzilla, Kibana
+• Test Case Man Tools: TestRail, Xray Test Man, Bugzilla
+• Version Control / Cloud: Git, Gitlab, GitHub, AWS
+• CI / CD & Build Tools: Jenkins, Maven, Docker, Kubernetes
+• SDLC Methodologies: Agile, Kanban and Waterfall Model
+• Database: SQL Server Management Studio, MySQL, Cassandra
+• Domain knowledge: Telecom, Cloud Computing, Hospitality, Education, E-Commerce
 
 - 📫 How to reach me **https://www.linkedin.com/in/sandip-shewale/**
 
