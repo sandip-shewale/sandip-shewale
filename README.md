@@ -20,9 +20,9 @@
 
 <h1 align="center">Education & Certifications</h1>
 <h3 align="left">• BE - Information Technology University of Pune, India (2010-2014)</h3>
-<h3 align="left">• ISTQB - Certified Test Automation Engineer (CT-TAE) (Oct 2023) - ISTQB <a href="https://www.linkedin.com/in/sandip-shewale/details/certifications/></a>"</h3>
-<h3 align="left">• ISTQB - Certified Foundation Level Agile Tester (CTFL-AT) (Feb 2023) - ISTQB</h3>
-<h3 align="left">• ISTQB - Certified Foundation Level (CTFL) (Nov 2022) - ISTQB</h3>
+<h3 align="left">• ISTQB - Certified Test Automation Engineer (CT-TAE) (Oct 2023)</h3>
+<h3 align="left">• ISTQB - Certified Foundation Level Agile Tester (CTFL-AT) (Feb 2023)</h3>
+<h3 align="left">• ISTQB - Certified Foundation Level (CTFL) (Nov 2022)</h3>
 <h3 align="left">• SeU Certified Selenium Engineer with Java (Dec 2023) - Selenium-United</h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/sandip-shewale/**
