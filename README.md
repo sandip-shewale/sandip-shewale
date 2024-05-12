@@ -3,20 +3,20 @@
 <h1 align="center">Hi 👋, I'm Sandip Shewale</h1>
 <h3 align="center">Over 8.2 years of experience in Software Development Engineer in Test (SDET) roles, specialising in Web, API, and Mobile Automation alongside E2E Manual Testing. Proficient in Selenium, Java, Appium, Rest Assured, TestNG, Serenity BDD, Cucumber, Postman, Maven, Jenkins, Git, Jira, BrowserStack, AWS and Docker. Experienced in multiple testing frameworks including Serenity BDD, Data - Driven, Keyword - Driven, and Hybrid Frameworks with POM, TestNG etc.</h3>
 
-<h1 align="left">Areas of Expertise</h1>
-• Programming Languages: :Core Java,Python
-• Automation Tools: Selenium WebDriver, Appium, Serenity BDD Cucumber
-• Frameworks: Serenity BDD Cucumber, Data / Keyword / Hybrid Driven, TestNG
-• Design Pattern: Page Object Model, Page Factory, Singleton
-• Code Editors / IDE: IntelliJ, Eclipse, PyCharm, Visual Studio Code
-• API Testing: Postman, Rest-Assured
-• Defect Man Tools: Jira, Test link, Bugzilla, Kibana
-• Test Case Man Tools: TestRail, Xray Test Man, Bugzilla
-• Version Control / Cloud: Git, Gitlab, GitHub, AWS
-• CI / CD & Build Tools: Jenkins, Maven, Docker, Kubernetes
-• SDLC Methodologies: Agile, Kanban and Waterfall Model
-• Database: SQL Server Management Studio, MySQL, Cassandra
-• Domain knowledge: Telecom, Cloud Computing, Hospitality, Education, E-Commerce
+<h1 align="center">Areas of Expertise</h1>
+<h3 align="left">• Programming Languages: :Core Java,Python</h3>
+<h3 align="left">• Automation Tools: Selenium WebDriver, Appium, Serenity BDD Cucumber</h3>
+<h3 align="left">• Frameworks: Serenity BDD Cucumber, Data / Keyword / Hybrid Driven, TestNG</h3>
+<h3 align="left">• Design Pattern: Page Object Model, Page Factory, Singleton</h3>
+<h3 align="left">• Code Editors / IDE: IntelliJ, Eclipse, PyCharm, Visual Studio Code</h3>
+<h3 align="left">• API Testing: Postman, Rest-Assured</h3>
+<h3 align="left">• Defect Man Tools: Jira, Test link, Bugzilla, Kibana</h3>
+<h3 align="left">• Test Case Man Tools: TestRail, Xray Test Man, Bugzilla</h3>
+<h3 align="left">• Version Control / Cloud: Git, Gitlab, GitHub, AWS</h3>
+<h3 align="left">• CI / CD & Build Tools: Jenkins, Maven, Docker, Kubernetes</h3>
+<h3 align="left">• SDLC Methodologies: Agile, Kanban and Waterfall Model</h3>
+<h3 align="left">• Database: SQL Server Management Studio, MySQL, Cassandra</h3>
+<h3 align="left">• Domain knowledge: Telecom, Cloud Computing, Hospitality, Education, E-Commerce</h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/sandip-shewale/**
 
