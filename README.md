@@ -18,6 +18,13 @@
 <h3 align="left">• Database: SQL Server Management Studio, MySQL, Cassandra</h3>
 <h3 align="left">• Domain knowledge: Telecom, Cloud Computing, Hospitality, Education, E-Commerce</h3>
 
+<h1 align="center">Education & Certifications</h1>
+<h3 align="left">BE - Information Technology University of Pune Pune, India 2010-2014 Relevant Courses: Programming languages (such as Java, C++, Python), Data Structures and Algorithms, Database Management Systems (DBMS), Computer Networks, Operating Systems, Web Technologies, Software Engineering, Artificial Intelligence and Machine Learning, Cyber Security, Mobile Computing, Software Testing etc.</h3>
+<h3 align="left">• ISTQB - Certified Test Automation Engineer (CT-TAE) (Oct 2023) - ISTQB</h3>
+<h3 align="left">• ISTQB - Certified Foundation Level Agile Tester (CTFL-AT) (Feb 2023) - ISTQB</h3>
+<h3 align="left">• ISTQB - Certified Foundation Level (CTFL) (Nov 2022) - ISTQB</h3>
+<h3 align="left">• SeU Certified Selenium Engineer with Java (Dec 2023) - Selenium-United</h3>
+
 - 📫 How to reach me **https://www.linkedin.com/in/sandip-shewale/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sandip-shewale/](https://www.linkedin.com/in/sandip-shewale/)
