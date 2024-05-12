@@ -1,7 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandip-shewale&label=Profile%20views&color=0e75b6&style=flat" alt="sandip-shewale" /> </p>
+
 <h1 align="center">Hi 👋, I'm Sandip Shewale</h1>
 <h3 align="center">Over 8.2 years of experience in Software Development Engineer in Test (SDET) roles, specialising in Web, API, and Mobile Automation alongside E2E Manual Testing. Proficient in Selenium, Java, Appium, Rest Assured, TestNG, Serenity BDD, Cucumber, Postman, Maven, Jenkins, Git, Jira, BrowserStack, AWS and Docker. Experienced in multiple testing frameworks including Serenity BDD, Data - Driven, Keyword - Driven, and Hybrid Frameworks with POM, TestNG etc.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandip-shewale&label=Profile%20views&color=0e75b6&style=flat" alt="sandip-shewale" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandip-shewale" alt="sandip-shewale" /></a> </p>
 
